@@ -4,6 +4,7 @@ public class User
 {
 	 protected int _id;
 	 protected String _userName;
+	 
 	 protected String _userPassword;
 	 protected String[] _courses;
 	 
