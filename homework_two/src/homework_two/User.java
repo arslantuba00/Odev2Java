@@ -22,6 +22,7 @@ public class User
 	}
 	public void set_id(int id) {
 		
+		
 		_id = id;
 	}
 	public String get_userName() {
